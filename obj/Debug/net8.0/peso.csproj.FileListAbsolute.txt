@@ -1,0 +1,14 @@
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.AssemblyInfoInputs.cache
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.AssemblyInfo.cs
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.csproj.CoreCompileInputs.cache
+C:\Users\gacha\Documents\peso\bin\Debug\net8.0\peso.exe
+C:\Users\gacha\Documents\peso\bin\Debug\net8.0\peso.deps.json
+C:\Users\gacha\Documents\peso\bin\Debug\net8.0\peso.runtimeconfig.json
+C:\Users\gacha\Documents\peso\bin\Debug\net8.0\peso.dll
+C:\Users\gacha\Documents\peso\bin\Debug\net8.0\peso.pdb
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.dll
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\refint\peso.dll
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.pdb
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\peso.genruntimeconfig.cache
+C:\Users\gacha\Documents\peso\obj\Debug\net8.0\ref\peso.dll
